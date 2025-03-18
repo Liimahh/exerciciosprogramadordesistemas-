@@ -1,0 +1,10 @@
+C:\Users\nathally.plima\source\programadordesistemas\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.csproj.AssemblyReference.cache
+C:\Users\nathally.plima\source\programadordesistemas\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.FrmMaiorMenor.resources
+C:\Users\nathally.plima\source\programadordesistemas\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.Properties.Resources.resources
+C:\Users\nathally.plima\source\programadordesistemas\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.csproj.GenerateResource.cache
+C:\Users\nathally.plima\source\programadordesistemas\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.csproj.CoreCompileInputs.cache
+C:\Users\nathally.plima\source\programadordesistemas\maioroumenorquedez\bin\x64\Debug\maioroumenorquedez.exe.config
+C:\Users\nathally.plima\source\programadordesistemas\maioroumenorquedez\bin\x64\Debug\maioroumenorquedez.exe
+C:\Users\nathally.plima\source\programadordesistemas\maioroumenorquedez\bin\x64\Debug\maioroumenorquedez.pdb
+C:\Users\nathally.plima\source\programadordesistemas\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.exe
+C:\Users\nathally.plima\source\programadordesistemas\maioroumenorquedez\obj\x64\Debug\maioroumenorquedez.pdb
