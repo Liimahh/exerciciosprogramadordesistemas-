@@ -1,0 +1,10 @@
+C:\Users\nathally.plima\source\repos\calculadorasimples\bin\x64\Debug\calculadorasimples.exe.config
+C:\Users\nathally.plima\source\repos\calculadorasimples\bin\x64\Debug\calculadorasimples.exe
+C:\Users\nathally.plima\source\repos\calculadorasimples\bin\x64\Debug\calculadorasimples.pdb
+C:\Users\nathally.plima\source\repos\calculadorasimples\obj\x64\Debug\calculadorasimples.csproj.AssemblyReference.cache
+C:\Users\nathally.plima\source\repos\calculadorasimples\obj\x64\Debug\calculadorasimples.frmCalculadoraSimples.resources
+C:\Users\nathally.plima\source\repos\calculadorasimples\obj\x64\Debug\calculadorasimples.Properties.Resources.resources
+C:\Users\nathally.plima\source\repos\calculadorasimples\obj\x64\Debug\calculadorasimples.csproj.GenerateResource.cache
+C:\Users\nathally.plima\source\repos\calculadorasimples\obj\x64\Debug\calculadorasimples.csproj.CoreCompileInputs.cache
+C:\Users\nathally.plima\source\repos\calculadorasimples\obj\x64\Debug\calculadorasimples.exe
+C:\Users\nathally.plima\source\repos\calculadorasimples\obj\x64\Debug\calculadorasimples.pdb
