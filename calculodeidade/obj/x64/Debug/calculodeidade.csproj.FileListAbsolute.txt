@@ -1,0 +1,10 @@
+C:\Users\nathally.plima\source\repos\calculodeidade\bin\x64\Debug\calculodeidade.exe.config
+C:\Users\nathally.plima\source\repos\calculodeidade\bin\x64\Debug\calculodeidade.exe
+C:\Users\nathally.plima\source\repos\calculodeidade\bin\x64\Debug\calculodeidade.pdb
+C:\Users\nathally.plima\source\repos\calculodeidade\obj\x64\Debug\calculodeidade.csproj.AssemblyReference.cache
+C:\Users\nathally.plima\source\repos\calculodeidade\obj\x64\Debug\calculodeidade.FrmCalculodeIdade.resources
+C:\Users\nathally.plima\source\repos\calculodeidade\obj\x64\Debug\calculodeidade.Properties.Resources.resources
+C:\Users\nathally.plima\source\repos\calculodeidade\obj\x64\Debug\calculodeidade.csproj.GenerateResource.cache
+C:\Users\nathally.plima\source\repos\calculodeidade\obj\x64\Debug\calculodeidade.csproj.CoreCompileInputs.cache
+C:\Users\nathally.plima\source\repos\calculodeidade\obj\x64\Debug\calculodeidade.exe
+C:\Users\nathally.plima\source\repos\calculodeidade\obj\x64\Debug\calculodeidade.pdb
