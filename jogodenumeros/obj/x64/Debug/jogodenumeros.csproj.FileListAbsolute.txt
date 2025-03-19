@@ -1,0 +1,9 @@
+C:\Users\nathally.plima\source\repos\jogodenumeros\bin\x64\Debug\jogodenumeros.exe.config
+C:\Users\nathally.plima\source\repos\jogodenumeros\bin\x64\Debug\jogodenumeros.exe
+C:\Users\nathally.plima\source\repos\jogodenumeros\bin\x64\Debug\jogodenumeros.pdb
+C:\Users\nathally.plima\source\repos\jogodenumeros\obj\x64\Debug\jogodenumeros.frmJogodeNumeros.resources
+C:\Users\nathally.plima\source\repos\jogodenumeros\obj\x64\Debug\jogodenumeros.Properties.Resources.resources
+C:\Users\nathally.plima\source\repos\jogodenumeros\obj\x64\Debug\jogodenumeros.csproj.GenerateResource.cache
+C:\Users\nathally.plima\source\repos\jogodenumeros\obj\x64\Debug\jogodenumeros.csproj.CoreCompileInputs.cache
+C:\Users\nathally.plima\source\repos\jogodenumeros\obj\x64\Debug\jogodenumeros.exe
+C:\Users\nathally.plima\source\repos\jogodenumeros\obj\x64\Debug\jogodenumeros.pdb
