@@ -1,0 +1,10 @@
+C:\Users\nathally.plima\source\repos\calculodedesconto\bin\Debug\calculodedesconto.exe.config
+C:\Users\nathally.plima\source\repos\calculodedesconto\bin\Debug\calculodedesconto.exe
+C:\Users\nathally.plima\source\repos\calculodedesconto\bin\Debug\calculodedesconto.pdb
+C:\Users\nathally.plima\source\repos\calculodedesconto\obj\Debug\calculodedesconto.csproj.AssemblyReference.cache
+C:\Users\nathally.plima\source\repos\calculodedesconto\obj\Debug\calculodedesconto.frmCalculodeDesconto.resources
+C:\Users\nathally.plima\source\repos\calculodedesconto\obj\Debug\calculodedesconto.Properties.Resources.resources
+C:\Users\nathally.plima\source\repos\calculodedesconto\obj\Debug\calculodedesconto.csproj.GenerateResource.cache
+C:\Users\nathally.plima\source\repos\calculodedesconto\obj\Debug\calculodedesconto.csproj.CoreCompileInputs.cache
+C:\Users\nathally.plima\source\repos\calculodedesconto\obj\Debug\calculodedesconto.exe
+C:\Users\nathally.plima\source\repos\calculodedesconto\obj\Debug\calculodedesconto.pdb
