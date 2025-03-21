@@ -1,0 +1,9 @@
+C:\Users\nathally.plima\source\programadordesistemas\calculadora1\bin\x64\Debug\calculadora1.exe.config
+C:\Users\nathally.plima\source\programadordesistemas\calculadora1\bin\x64\Debug\calculadora1.exe
+C:\Users\nathally.plima\source\programadordesistemas\calculadora1\bin\x64\Debug\calculadora1.pdb
+C:\Users\nathally.plima\source\programadordesistemas\calculadora1\obj\x64\Debug\calculadora1.frmCalculadora1.resources
+C:\Users\nathally.plima\source\programadordesistemas\calculadora1\obj\x64\Debug\calculadora1.Properties.Resources.resources
+C:\Users\nathally.plima\source\programadordesistemas\calculadora1\obj\x64\Debug\calculadora1.csproj.GenerateResource.cache
+C:\Users\nathally.plima\source\programadordesistemas\calculadora1\obj\x64\Debug\calculadora1.csproj.CoreCompileInputs.cache
+C:\Users\nathally.plima\source\programadordesistemas\calculadora1\obj\x64\Debug\calculadora1.exe
+C:\Users\nathally.plima\source\programadordesistemas\calculadora1\obj\x64\Debug\calculadora1.pdb
