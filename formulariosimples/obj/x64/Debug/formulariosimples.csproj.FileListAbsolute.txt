@@ -1,0 +1,10 @@
+C:\Users\nathally.plima\source\programadordesistemas\formulariosimples\bin\x64\Debug\formulariosimples.exe.config
+C:\Users\nathally.plima\source\programadordesistemas\formulariosimples\bin\x64\Debug\formulariosimples.exe
+C:\Users\nathally.plima\source\programadordesistemas\formulariosimples\bin\x64\Debug\formulariosimples.pdb
+C:\Users\nathally.plima\source\programadordesistemas\formulariosimples\obj\x64\Debug\formulariosimples.csproj.AssemblyReference.cache
+C:\Users\nathally.plima\source\programadordesistemas\formulariosimples\obj\x64\Debug\formulariosimples.frmFormularioSimples.resources
+C:\Users\nathally.plima\source\programadordesistemas\formulariosimples\obj\x64\Debug\formulariosimples.Properties.Resources.resources
+C:\Users\nathally.plima\source\programadordesistemas\formulariosimples\obj\x64\Debug\formulariosimples.csproj.GenerateResource.cache
+C:\Users\nathally.plima\source\programadordesistemas\formulariosimples\obj\x64\Debug\formulariosimples.csproj.CoreCompileInputs.cache
+C:\Users\nathally.plima\source\programadordesistemas\formulariosimples\obj\x64\Debug\formulariosimples.exe
+C:\Users\nathally.plima\source\programadordesistemas\formulariosimples\obj\x64\Debug\formulariosimples.pdb
